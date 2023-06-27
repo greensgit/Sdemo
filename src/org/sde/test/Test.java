@@ -9,5 +9,9 @@ public class Test {
 	private void login() {
 		System.out.println("This is santhosh working in login");
 	}
+	
+		private void addToKart() {
+		System.out.println("This is Azhar-working on Add to kart");
+	}
 
 }
