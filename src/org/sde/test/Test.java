@@ -6,4 +6,7 @@ public class Test {
 		System.out.println("This is a test project");
 	}
 
+	private void addToKart() {
+		System.out.println("This is Azhar-working on Add to kart");
+	}
 }
